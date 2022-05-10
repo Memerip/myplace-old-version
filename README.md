@@ -1,5 +1,5 @@
 # MyPlace
 My personal website
 
-#Projects
+# Projects
 Every project I make will be on this page
